@@ -29,7 +29,7 @@
  */
 
 #include "fields.h"
-#include "string.h"
+#include "cstring"
 
 using namespace dsmr;
 using namespace dsmr::fields;
