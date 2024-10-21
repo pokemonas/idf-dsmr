@@ -31,7 +31,7 @@
 #ifndef DSMR_INCLUDE_UTIL_H
 #define DSMR_INCLUDE_UTIL_H
 
-#include <string.h>
+#include <string>
 
 #define DSMR_PROGMEM
 #define F(str) str
