@@ -32,7 +32,7 @@
 #define DSMR_INCLUDE_UTIL_H
 
 #include <string>
-
+#include <cstring>
 #define DSMR_PROGMEM
 #define F(str) str
 using __FlashStringHelper = char;
